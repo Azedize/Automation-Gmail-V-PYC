@@ -26,7 +26,7 @@
         "Template": "Template2"
     },
     "SelectMarkAsRead": {
-        "id": "mark_as_read",
+        "id": "mark_as_read_Select",
         "label": "Mark As Read",
         "actions": ["SelectMarkAsImportant","SelectAddStar","SelectArchive"],
         "Template": "Template2"
