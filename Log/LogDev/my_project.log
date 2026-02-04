@@ -1,9 +1,0 @@
-[2026-02-04 13:58:29] [INFO] Démarrage application principale
-[2026-02-04 13:58:29] [INFO] Initialisation des dépendances
-[2026-02-04 13:58:29] [INFO] pywin32 already installed
-[2026-02-04 13:58:30] [INFO] Checking for updates
-[2026-02-04 13:58:32] [INFO] Application up-to-date
-[2026-02-04 13:58:32] [INFO] Launching main application
-[2026-02-04 13:58:33] [INFO] Session locale valide, étape API
-[2026-02-04 13:58:34] [INFO] Session validée (LOCAL + API)
-[2026-02-04 13:58:35] [WARNING] No scenario returned from API.
